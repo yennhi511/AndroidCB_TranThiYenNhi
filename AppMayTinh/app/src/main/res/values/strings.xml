@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppMayTinh</string>
+<!--    Các chuỗi và màu sắc cần phải khai báo trong tài nguyên để nâng cao khả năng linh hoạt trong lập trình di động-->
+    <string name="result">Kết quả</string>
+    <string name="plus">+</string>
+    <string name="tru">-</string>
+    <string name="nhan">*</string>
+    <string name="chia">/</string>
+    <string name="chiaDu">%</string>
+</resources>
