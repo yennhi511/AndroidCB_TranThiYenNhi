@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bai2_ChuyenDoiNhietDo</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="F">F</string>
+    <string name="C">C</string>
+    <string name="Celsius">Celsius</string>
+    <string name="convertFC">Convert To Celsius</string>
+    <string name="convertCF">Convert To Fahrenheit</string>
+    <string name="clear">Clear</string>
+
+</resources>

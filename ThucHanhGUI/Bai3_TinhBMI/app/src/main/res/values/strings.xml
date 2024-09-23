@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bai3_TinhBMI</string>
+    <string name="tieude">CHƯƠNG TRÌNH TÍNH CHỈ SỐ BMI</string>
+    <string name="name">Nhập tên:</string>
+    <string name="height">Chiều cao:</string>
+    <string name="weight">Cân nặng:</string>
+    <string name="tinhBMI">Tính BMI</string>
+    <string name="BMI">BMI=</string>
+    <string name="chandoan">Chẩn đoán:</string>
+
+    <string name="hintname">Nguyễn Văn A</string>
+    <string name="hintHeight">1.60</string>
+    <string name="hintWeight">44</string>
+    <string name="hintBmi">bmi</string>
+    <string name="hintChanDoan">gầy</string>
+</resources>

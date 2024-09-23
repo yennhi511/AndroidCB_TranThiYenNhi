@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bai1_PhepTinh</string>
+    <string name="soA">Số A:</string>
+    <string name="nhapA">Nhập số A:</string>
+    <string name="soB">Số B:</string>
+    <string name="nhapB">Nhập số B:</string>
+    <string name="kq">Kết quả</string>
+    <string name="tong">TỔNG 2 SỐ</string>
+    <string name="hieu">HIỆU 2 SỐ</string>
+    <string name="tich">TÍCH 2 SỐ</string>
+    <string name="thuong">THƯƠNG 2 SỐ</string>
+    <string name="ucln">ƯỚC CHUNG LỚN NHẤT</string>
+    <string name="thoat">THOÁT CHƯƠNG TRÌNH</string>
+</resources>
